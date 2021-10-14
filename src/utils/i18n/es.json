@@ -1,0 +1,161 @@
+{
+  "translation": {
+    "navbar": {
+      "buy": "Comprar",
+      "claim": "Reclamar",
+      "swap": "Swap",
+      "card": "Tarjeta",
+      "wallet": "Pay",
+      "roadMap": "Road Map",
+      "community": "Comunidad",
+      "buyButton": "Compra Ahora"
+    },
+    "meetBullRockToken": {
+      "days": "DÍAS",
+      "hours": "HORAS",
+      "minutes": "MINUTOS",
+      "seconds": "SEGUNDOS",
+      "title": "¡Conoce el Token BULLROCK!",
+      "paraOne": "El mejor token de comunidad del mundo... Un proyecto deflacionario con un desarrollado y exlcusivo ecosistema de intercambio en la cadena de bloques de BSC, ETH y más.",
+      "buyButton": "COMPRAR  BULLROCK",
+      "claimAirDrop": "RECLAMAR AIRDROP",
+      "paraTwo": "Solo tienes que holdear Bullrock en tu wallet y ganarás más. En cada transacción, el protocolo distribuye los ingresos a los holders y el supply será quemado junto a las transacciones."
+    },
+    "claimAirDrop": {
+      "title": "RECLAMA TUS AIRDROP",
+      "subtitleone": "Reclama tus tokens ahora y comienza a comprar al precio más bajo del mercado.",
+      "claimAirDropButton": "RECLAMA TUS AIRDROP AQUÍ",
+      "claimNowPara": "Reclama tus airdrop ahora 10,000 BLR GRATIS (+GAS BNB / BEP20)",
+      "titleTwo": "Comprar BULLROCK (BLR)",
+      "subtitleTwo": "MIN: ~0.005 BNB / MAX: ~10 BNB (+GAS BNB / BEP20)",
+      "attentionTitle": "ATENCIÓN:",
+      "attentionSubTitle": "Por cada 100 BNB de compra, su valor aumenta",
+      "buyInputPlaceHolder": "INGRESAR BNB",
+      "buyTokenButton": "COMPRAR TOKEN BLR",
+      "buyTokenPara": "Por cada compra que tu referido realice, recibirás un 10% de tokens adicionales a tu wallet.",
+      "tokenAddress": "DIRECCIÓN DE TOKEN:",
+      "inviteBy": "Invitado por",
+      "inviteByInput": "CONÉCTATE A TU BILLETERA",
+      "inviteByPara": "Por referir a otro socio, recibes automáticamente 5,000 BLR",
+      "myReferralLink": "Mi link de referido",
+      "myReferralInput": "TU DIRECCIÓN BEP20",
+      "copyReferralButton": "COPIAR MI LINK DE REFERIDO"
+    },
+    "bullRockSwap": {
+      "title": "BULLROCK SWAP",
+      "paragrapg": "El primer y único exchange de varias cadenas de bloques a nivel mundial. Puedes comprar en BSC y ETH... Todo en un solo lugar."
+    },
+    "bullRockCard": {
+      "title": "TARJETA BULLROCK",
+      "paragraph": "Obtén tu propia tarjeta para intercambiar tus principales activos criptográficos digitales en cualquier momento y lugar del mundo.",
+      "aboutPara": "Accede a la tarjeta internacional de débito prepagada Visa / Mastercard / Unionpay.  Recárgala con el saldo de tu tarjeta BULLROCK y su sistema de conversión inmediata.",
+      "service": "Services",
+      "serviceOne": "- Retiros de dinero FIAT en cualquier cajero del mundo.",
+      "serviceOneTwo": "- Compras en línea.",
+      "serviceThree": "- Compras en tiendas participantes.",
+      "minimumRequirements": "Requisitos mínimos:",
+      "minimumReqOne": "1. Documento de identificación: Pasaporte / DNI / CI12",
+      "minimumReqTwo": "2. Recibo de servicio: agua, electricidad, gas, telefonía móvil, medicina prepagada, seguro de automóvil, etc.",
+      "button": "IR A TARJETA BULLROCK"
+    },
+    "wallet": {
+      "title": "BULLROCK PAY",
+      "walletButton": "IR A BULLROCK PAY",
+      "walletBottomParagraph": "Recibe dinero al instante y administra qué cliente realizó qué monto de pago con solo un clic. Oficina virtual con billeteras en BTC / USD / EUR. Recibe grandes beneficios con la velocidad y confianza que la tecnología Blockchain garantiza.",
+      "paraOne": "Primera plataforma de pago de Bitcoin. Accede a una perfecta pasarela de pagos para la venta de tus productos, servicios, inversiones, donaciones, streaming, youtubers, etc.",
+      "paraTwo": "Presenta tus empresas en español, inglés, ruso y chino.",
+      "paraThree": "Genera tickets de pago sin necesidad de vincular una tarjeta o cuenta bancaria.",
+      "paraFour": "Tus clientes pueden pagar con criptomonedas desde cualquier Wallet.",
+      "paraFive": "Recibe dinero al instante y administra qué cliente realizó qué monto de pago con solo un clic.",
+      "paraSix": "Oficina virtual con billeteras en BTC / USD / EUR.",
+      "paraSeven": "Recibe grandes beneficios con la velocidad y confianza que la tecnología Blockchain garantiza."
+    },
+    "roadMap": {
+      "subtitle": "Esto es solo el comienzo. Prepárate para todo lo que nuestro equipo tiene para ti. BullRock, la fuerza de la innovación.",
+      "paraOne": "- Diseño de monedas BSC",
+      "paraTwo": "- Preventa de Token de gobernanza",
+      "paraThree": "- Diseño de la web V1",
+      "paraFour": "- Lanzamiento de campañas de marketing",
+      "paraFive": "- Lanzamiento oficial en PancakeSwap",
+      "paraSix": "- Verificación del contrato",
+      "paraSeven": "- Lanzamiento exitoso",
+      "paraEight": "- Reforzar el marketing",
+      "paraNine": "- Listados (CMC, Coingecko, Blockfolio, Poocoin)",
+      "paraTen": "- Listado en Exchange CEX (a mediana escala*)",
+      "paraEleven": "- Quema de un Porcentaje del token",
+      "paraThirteen": "- Lanzamiento de tarjeta cripto",
+      "paraForteen": "- Lanzamiento de pasarela de pago para particulares y empresas",
+      "paraFifteen": "- Finalización exitosa de la auditoría",
+      "paraSixteen": "- Lanzamiento de merchandise",
+      "paraSeventeen": "- Ampliar las organizaciones benéficas dirigidas",
+      "paraEighteen": "- Participar en sorteos y competiciones",
+      "paraNineteen": "- Involucrar marketing agresivo",
+      "paraTwenty": "- Se reinicia la quema*",
+      "paraTwentyOne": "- Conceptualizar el caso de uso de la plataforma de ecosistemas de caridad",
+      "paraTwentyTwo": "- Listado de Exchange (Grandes Exchanges)",
+      "paraTwentyThree": "- Lanzamiento del gas del token",
+      "paraTwentyFour": "- Lanzamiento de BullrockSwap BSC&ETH",
+      "paraTwentyFive": "- Farming Exchange",
+      "paraTwentySix": "- Staking Exchange",
+      "paraTwentySeven": "- Nuevo lanzamiento de tokens distribuido a los holders",
+      "paraTwentyEight": "- Lanzamiento de plataforma sobre ecosistemas de   caridad en el mundo real",
+      "paraTwentyNine": "- Quema de token",
+      "paraThirty": "- Diseñar un desarrollo agresivo empresarial a largo plazo",
+      "bottomButton": "- Finalizar la cotización en las Exchange dirigidas"
+    },
+    "joinCommunity": {
+      "title": "ÚNETE A LA COMUNIDAD",
+      "paragraph": "Conoce nuestras principales redes sociales y sé un verdadero BULLROCKER."
+    },
+    "footer": {
+      "buy": "Comprar",
+      "claim": "Reclamar",
+      "swap": "Swap",
+      "card": "Tarjeta",
+      "wallet": "Wallet",
+      "roadMap": "Road Map",
+      "community": "Comunidad",
+      "contactUs": "Contáctanos",
+      "footerPara":"Descargo de responsabilidad legal: La información proporcionada en este sitio web no constituye asesoramiento de inversión, asesoramiento financiero, asesoramiento comercial o cualquier otro tipo de asesoramiento y no debe tratar el contenido del sitio web como tal. El equipo de Bullock Swap no recomienda que usted compre, venda o conserve ninguna criptomoneda. Realice su propia diligencia debida y consulte a su asesor financiero antes de tomar cualquier decisión de inversión. Al comprar Bullock Swap, usted acepta que no está comprando un valor o una inversión y acepta mantener al equipo indemne y no responsable de ninguna pérdida o impuesto en el que pueda incurrir. También acepta que el equipo presenta el token tal cual y no está obligado a proporcionar ningún tipo de soporte o servicio. No debe esperar ninguna forma de Bullock Swap y su equipo. Aunque Bullock Swap es un token experimental para experimentos sociales y no una moneda digital, el equipo recomienda encarecidamente que las personas estadounidenses no lo compren porque el equipo no puede garantizar el cumplimiento de las regulaciones estadounidenses. Asegúrese siempre de cumplir con las leyes y normativas locales antes de realizar cualquier compra."
+    },
+    "whitePaperSection":{
+      "button":"IR AL WHITEPAPER",
+      "headingone":"Grupos de liquidez auto escalables",
+      "headingTwo":"Construido para PancakeSwap v2.1",
+      "headingThree":"Integración entre cadenas",
+      "paraOne": "Con nuestra inyección de LP automática escalable y personalizada, puede simplemente sentarse y pasar el rato con Bullock Swap. Deja que ella dirija la mecedora por ti.",
+      "paraTwo": "¿Prueba del futuro? Usted apuesta. ¿Por qué lidiar con problemas de liquidez? Ya se ha manejado todo por usted.",
+      "paraThree":"Las criptomonedas se mueven rápido. Nos estamos moviendo con eso. Nuestros ingenieros están preparados y listos para usar la cadena cruzada Bullock Swap."
+    },
+    "getStarted": {
+      "title": "COMIENCE CON BULLROCK SWAP",
+      "paragraph": "Bullock Swap es el primer token deflacionario de segunda generación de su tipo en Binance Smart Chain que utiliza un nuevo tipo de grupos de liquidez automáticos escalables para evitar la manipulación de precios y, al mismo tiempo, admite la integración entre cadenas, lo que garantiza que pueda traer Bullock Swap con usted, donde quiera que vaya!",
+      "button": "COMPRAR AHORA"
+    },
+    "featuresSection":{
+      "headingone":"Bloqueado en el tiempo",
+      "headingTwo":"Agricultura de rendimiento automático",
+      "headingThree":"Inyección LP escalable",
+      "headingFour":"Límites de transacciones",
+      "headingFive":"Integración de cadena cruzada",
+      "headingSix":"Deflacionista",
+      "paraOne": "Permite que el equipo actualice el protocolo según sea necesario, pero mantiene su inversión a salvo de actores malintencionados.",
+      "paraTwo": "Disfrute de recompensas e intereses del 6% por no hacer nada más que mantener sus tokens. ¿Qué tan fácil es eso?",
+      "paraThree":"Inyección automática de LP al 5%, pero con tarifas escalables según la cantidad que se vende.",
+      "paraFour": "Las ballenas pertenecen a los océanos, no al espacio. Bullock Swap introduce un límite a la cantidad máxima de Bullock Swap que un titular puede intercambiar en una sola transacción.",
+      "paraFive": "Bullock Swap se expande constantemente a varias cadenas a medida que están disponibles y utiliza herramientas de puente para garantizar que el token pueda seguir siendo relevante y disponible para todos en todo momento.",
+      "paraSix":"Bullock Swap está diseñado con un límite estricto en su suministro total de tokens, y nuestro suministro circulante disminuye con cada transacción un 5% que se quema automáticamente."
+    },
+    "clearSection":{
+      "subtitle":"Tasas especiales de impuestos contra las ballenas en cada transacción: ayudar a los titulares, castigar a las ballenas.",
+      "paraOne": "Plancton: 0,0001% o menos del suministro total.",
+      "paraTwo": "Plancton: 0,0001% o menos del suministro total.",
+      "paraThree":"Pulpo: 0,005% o menos del suministro total.",
+      "paraFour": "Delfín: 0.01% o menos del suministro total.",
+      "paraFive": "Tiburón: 0.025% o menos del suministro total.",
+      "paraSix":"Ballena: 0.05% o menos del suministro total.",
+      "paraSeven":"Ballena azul: 0,1% o menos del suministro total.",
+      "paraEight":"Poseidón: 0,5% o menos del suministro total."
+    }
+  }
+}
